@@ -47,6 +47,5 @@ namespace CosmicCuration.Utilities
             public T Item;
             public bool isUsed;
         }
-
     }
 }
